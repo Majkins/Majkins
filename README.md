@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Majkins
-- 👀 I’m interested in games.
-- 🌱 I’m currently learning Minecraft PvP.
+- 👋 Hi, I’m Majkins
+- 👀 I’m interested in games
+- 🌱 I’m currently learning Minecraft PvP
 - 😄 Pronouns: he him his
 
 <!---
